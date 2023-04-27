@@ -43,6 +43,8 @@ As for the functionalities of the Main, at a minimum, it must include the follow
 **LEVEL 2**
 
 It uses MySQL as persistence.
+## SQL database is uploaded in https://www.db4free.net.
+## You can use directly ( no localhost is required):
 
 **LEVEL 3**
 
